@@ -9,7 +9,7 @@
 
 
  // Write code under this line
-  
+    
 
  console.log(typeof Account.prototype.getInfo);
  // 'function'
